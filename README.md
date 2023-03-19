@@ -25,6 +25,7 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
+# ssh
 git remote add origin git@github.com:shinyora/hello-world.git
 git push -u origin main
 
