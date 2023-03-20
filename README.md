@@ -29,6 +29,7 @@ git branch -M main
 git remote add origin git@github.com:shinyora/hello-world.git
 git push -u origin main
 
-git remote add origin git@github.com:shinyora/hello-world.git
+# https
+git remote add origin https//github.com/shinyora/hello-world.git
 git branch -M main
 git push -u origin main
