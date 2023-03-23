@@ -7,7 +7,8 @@ This repository is built step by step in the tutorial.
 
 It now includes steps for GitHub.
 
-git@github.com:shinyora/git-hello.git
+# git ssh
+git@github.com:shinyora/shinyora.github.io.git
 
 …or create a new repository on the command line
 
@@ -16,7 +17,7 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/shinyora/hello-world.git
+git remote add origin https://github.com/shinyora.github.io.git
 ### password is not supported now!
 git push -u origin main
 
